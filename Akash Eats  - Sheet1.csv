@@ -1,0 +1,11 @@
+id,spots ,delicious,distance 
+1,Cactus Club ,TRUE,15 km
+2,Barbarella,FALSE,16 km
+3,OMO,TRUE,13 km
+4,The Keg,TRUE,15 km
+5,Kinjo,TRUE,8 km
+6,Luca,FALSE,20 km
+7,Rickys ,FALSE,7 km
+8,Shawarma Palace,TRUE,18 km
+9,Crafts,FALSE,16 km
+10,Milpa,FALSE,13 km
