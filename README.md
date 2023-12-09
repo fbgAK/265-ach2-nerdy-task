@@ -45,8 +45,6 @@ Result:
 Step 13: Awesome job if you made it this far, you're a pro at this point! For the last step in the key box type 'select' and in the value type 'delicious' you should get delicious: true or false back.
 
 Result:
-<img width="1440" alt="Screenshot 2023-12-07 at 11 57 17 AM" src="https://github.com/fbgAK/265-ach2-nerdy-task/assets/147472633/84f16d66-3cbd-49b3-a9cc-2889b8677efb">
-
 <img width="1440" alt="Screenshot 2023-12-07 at 11 59 50 AM" src="https://github.com/fbgAK/265-ach2-nerdy-task/assets/147472633/5ff844d4-b3e7-4727-adb5-d1d2a5afa820">
 
 
